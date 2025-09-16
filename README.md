@@ -1,4 +1,3 @@
-# selenium_veri_cekme
 # Pegasus Flight Scraper
 
 PNR + Soyadı ile manage-booking sayfasından uçuş bilgilerini çeker, JSON üretir.
