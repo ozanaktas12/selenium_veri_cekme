@@ -11,7 +11,7 @@ import json
 # Kullanıcıdan input al
 pnr_no = input("Lütfen PNR numaranızı giriniz: ")
 surname = input("Lütfen soyadınızı giriniz: ")
-#PSZXBC
+
 # Soyadı Türkçe karakter içeriyorsa encode et
 surname_encoded = urllib.parse.quote(surname)
 
