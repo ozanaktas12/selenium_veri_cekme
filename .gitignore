@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# IDE / OS
+.idea/
+.DS_Store
+
+# Çalışma çıktıları (runtime artifacts)
+flights_data.json
+ucus_sonuclari.json
+debug_*.png
+debug_*.html
